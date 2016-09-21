@@ -1,2 +1,3 @@
 # 2016-fall
-The topic for UBCS3 Fall 2016 is Machine Learning in Python with scikit-learn.
+
+The goal of UBCS3 is to help students, graduates, fellows and faculty at UBC develop software skills for science. The topic for the Fall 2016 semester is Machine Learning in Python with scikit-learn (see [scikit-learn.org](http://scikit-learn.org/stable/)) and will be a continuation of the Summer 2016 seminar (see the [GitHub repo](https://github.com/patrickwalls/ubc-scientific-software-seminar)). It is encouraged but not required (everyone is still invited!) for participants to be familiar with Python programming, Jupyter notebooks and the SciPy stack: NumPy, SciPy, matplotlib and pandas.
