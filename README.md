@@ -7,7 +7,7 @@ The UBC Scientific Software Seminar is inspired by [Software Carpentry](http://s
 #### OUTLINE
 
 * What are the **learning goals**?
-  * To learn how to use [scikit-learn.org](http://scikit-learn.org) to solve machine learning problems
+  * To learn how to use [scikit-learn](http://scikit-learn.org) to solve machine learning problems
   * To master [Python](https://www.python.org/) programming for scientific computing
   * To learn mathematics and statistics applied to data science and machine learning
   * To meet and collaborate with other students and faculty interested in scientific computing
