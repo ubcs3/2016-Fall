@@ -1,3 +1,47 @@
-## UBC Scientific Software Seminar - Fall 2016
+## UBC Scientific Software Seminar
 
-The UBC Scientific Software Seminar is inspired by [Software Carpentry](http://software-carpentry.org/) and its goal is to help students, graduates, fellows and faculty at UBC develop software skills for science. The topic for the Fall 2016 semester is **Machine Learning in Python with scikit-learn** (see [scikit-learn.org](http://scikit-learn.org/stable/)) and will be a continuation of UBCS3 Summer 2016 seminar (see the [GitHub repo](https://github.com/patrickwalls/ubc-scientific-software-seminar)). For Fall 2016, it is encouraged but not required (everyone is still invited!) for participants to be familiar with Python programming, Jupyter notebooks and the SciPy stack: NumPy, SciPy, matplotlib and pandas.
+The UBC Scientific Software Seminar is inspired by [Software Carpentry](http://software-carpentry.org/) and its goal is to help students, graduates, fellows and faculty at UBC develop software skills for science.
+
+### Fall 2016: Machine Learning in Python with scikit-learn
+
+#### OUTLINE
+
+* What are the **learning goals**?
+  * To learn how to use [scikit-learn.org](http://scikit-learn.org) to solve machine learning problems
+  * To master [Python](https://www.python.org/) programming for scientific computing
+  * To learn mathematics and statistics applied to data science and machine learning
+  * To meet and collaborate with other students and faculty interested in scientific computing
+* What **software tools** are we going to use?
+  * [scikit-learn](http://scikit-learn.org/): machine learning in Python
+  * [SciPy Stack](http://scipy.org/): scientific computing with [NumPy](http://www.numpy.org/), [SciPy](http://scipy.org/), [matplotlib](http://matplotlib.org/) and [pandas](http://pandas.pydata.org/)
+  * [Python](https://www.python.org/)
+  * [Jupyter Notebooks](http://jupyter.org/): execute code with accompanying text, markdown and LaTeX all in the browser
+  * [Git/GitHub](https://github.com/): manage projects locally from the command line with Git and collaborate online with GitHub
+* What **scientific topics** will we study?
+  * Machine learning fundamentals (following [tutorials](http://scikit-learn.org/stable/tutorial/basic/tutorial.html) provided by [scikit-learn.org](http://scikit-learn.org/)):
+    * Regression, classification, clustering, dimensionality reduction
+  * Special topics:
+    * [Natural Language Processing](http://www.nltk.org/)
+* Where do we start? What are the **prerequisites**?
+  * UBCS3 Fall 2016 is a continuation of [UBCS3 Summer 2016](https://github.com/ubcs3/2016-Summer) which included:
+    * Bash shell
+    * Git/GitHub
+    * Python programming
+    * SciPy stack: NumPy, Scipy, matplotlib and pandas
+    * Basic examples using scikit-learn
+  * Calculus, linear algebra, probability and statistics
+* Who is the target **audience**?
+  * Everyone is invited!
+  * If the outline above is at your level, perfect! Get ready to write a lot of code!
+  * If the outline above seems too intimidating, come anyway! You'll learn things just by being exposed to new tools and ideas, and meeting new people!
+  * If you have experience with all the topics outlined above, come anyway! You'll become more of an expert by participating as a helper/instructor!
+
+#### SCHEDULE
+
+Fall 2016 will consist of weekly 1-hour meetings held from October until mid-December:
+
+* Week 1 - Friday October 7 - 1-2pm - LSK 121
+  * Overview of machine learning problems
+  * Exploring the scikit-learn documentation
+  * Getting to know the scikit-learn API
+  * First examples with builtin example datasets
