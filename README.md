@@ -40,7 +40,7 @@ The UBC Scientific Software Seminar is inspired by [Software Carpentry](http://s
 
 Fall 2016 will consist of weekly 1-hour meetings held from October until mid-December:
 
-* Week 1 - Friday October 7 - 1-2pm - LSK 121
+* Week 1 - Friday October 7 - 1-2pm - LSK 121 [[Notes](2016-10-07-notes.ipynb)]
   * Overview of machine learning problems
   * Exploring the scikit-learn documentation
   * Getting to know the scikit-learn API
