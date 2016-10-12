@@ -49,7 +49,7 @@ Fall 2016 will consist of weekly 1-hour meetings held from October until mid-Dec
 * Week 3 - Friday October 21 - 1-2pm - LSK 121
 * Week 4 - Friday October 28 - 1-2pm - LSK 121
 * Week 5 - Friday November 4 - 1-2pm - LSK 121
-* *Remembrance Day* (No meeting Novmber 11)
+* *Remembrance Day* - No meeting November 11
 * Week 6 - Friday November 18 - 1-2pm - LSK 121
 * Week 7 - Friday November 25 - 1-2pm - LSK 121
 * Week 8 - Friday December 2 - 1-2pm - LSK 121
