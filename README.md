@@ -38,7 +38,7 @@ The UBC Scientific Software Seminar is inspired by [Software Carpentry](http://s
 
 #### SCHEDULE
 
-Fall 2016 will consist of weekly 1-hour meetings held from October until mid-December. **The regular time is Friday 1-2pm in LSK 121 (with additional hour 3-4pm for those who cannot attend 1-2pm).**
+Fall 2016 will consist of weekly 1-hour meetings held from October until mid-December. The regular scheduled time is Friday 1-2pm in LSK 121 (with additional hour 3-4pm for those who cannot attend 1-2pm).
 
 * Week 1 - Friday October 7 - 1-2pm - LSK 121 [[Notes](2016-10-07-notes.ipynb)]
   * Overview of machine learning problems
@@ -53,4 +53,3 @@ Fall 2016 will consist of weekly 1-hour meetings held from October until mid-Dec
 * Week 6 - Friday November 18 - 1-2pm - LSK 121
 * Week 7 - Friday November 25 - 1-2pm - LSK 121
 * Week 8 - Friday December 2 - 1-2pm - LSK 121
-* Week 9 - Friday October 7 - 1-2pm - LSK 121
