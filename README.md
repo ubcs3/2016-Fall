@@ -45,7 +45,14 @@ Fall 2016 will consist of weekly 1-hour meetings held from October until mid-Dec
   * Exploring the scikit-learn documentation
   * Getting to know the scikit-learn API
   * First examples with builtin example datasets
-* Week 2 - Friday October 14 - 1-2pm - LSK 121
+* Week 2 - Friday October 14 - 1-2pm - LSK 121 [[Notes](2016-10-14-notes.ipynb) ]
+  * Regression Example: Diabetes dataset
+    * A closer look at least squares linear regression calculations
+    * Can we improve R2? Let's create more features
+    * Splitting the dataset: Training data and testing data
+  * Classification Example: Hand-written digits dataset
+    * K-nearest neighbors classifier
+    * Evaluating the model
 * Week 3 - Friday October 21 - 1-2pm - LSK 121
 * Week 4 - Friday October 28 - 1-2pm - LSK 121
 * Week 5 - Friday November 4 - 1-2pm - LSK 121
