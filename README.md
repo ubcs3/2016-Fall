@@ -66,7 +66,7 @@ Fall 2016 will consist of weekly 1-hour meetings held from October until mid-Dec
     * Digits dataset: How many different kinds of 1s are there?
     * Combining KMeans with PCA
 * Week 5 - Friday November 4 - 1-2pm - LSK 121
-  * Kernel density estimation and Gaussian processes - @sempwn
+  * Kernel density estimation and Gaussian processes - [[Notes](2016-11-04-notes.ipynb)] - Presented by [@sempwn](https://github.com/sempwn)
 * *Remembrance Day* - No meeting November 11
 * Week 6 - Friday November 18 - 1-2pm - LSK 121
   * Feature extraction and image classification - @dbhaskar92
