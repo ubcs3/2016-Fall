@@ -68,7 +68,7 @@ Fall 2016 will consist of weekly 1-hour meetings held from October until mid-Dec
 * Week 5 - Friday November 4 - 1-2pm - LSK 121 [[Notes](2016-11-04-notes.ipynb)]
   * Kernel density estimation and Gaussian processes - Presented by [@sempwn](https://github.com/sempwn)
 * *Remembrance Day* - No meeting November 11
-* Week 6 - Friday November 18 - 1-2pm - UCLL 109
+* Week 6 - Friday November 18 - 1-2pm - **UCLL 109**
   * Feature extraction and image classification - Presented by [@dbhaskar92](https://github.com/dbhaskar92)
-* Week 7 - Friday November 25 - 1-2pm - UCLL 109
+* Week 7 - Friday November 25 - 1-2pm - **UCLL 109**
   * TBD
